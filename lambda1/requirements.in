@@ -1,0 +1,2 @@
+-c ../env-requirements.txt
+pandas==1.5.2

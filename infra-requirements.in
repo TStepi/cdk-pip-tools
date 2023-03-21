@@ -1,0 +1,8 @@
+-c env-requirements.txt
+flake8
+constructs
+aws-cdk-lib
+aws-cdk.aws-apigatewayv2-alpha
+aws-cdk.aws-apigatewayv2-integrations-alpha
+aws-cdk.aws-apigatewayv2-authorizers-alpha
+
